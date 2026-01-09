@@ -2,9 +2,9 @@
   "maintenance": false,
   "message": "Mod Maintenance Break",
   "keys": {
-    "BOS_1": {
+    "@PubgMobileHackConfigVpn": {
       "status": "valid",
-      "expiry": "2026-12-25T23:00:00"
+      "expiry": "2026-01-11T23:00:00"
     }, 
     "BOS_2": {
       "status": "valid",
